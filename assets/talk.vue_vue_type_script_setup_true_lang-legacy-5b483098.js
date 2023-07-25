@@ -1,0 +1,1 @@
+System.register(["./index-legacy-6d5ced08.js"],(function(e,t){"use strict";var s,n,r;return{setters:[e=>{s=e.d,n=e.o,r=e.h}],execute:function(){e("_",s({__name:"talk",setup:e=>(e,t)=>(n(),r("div"))}))}}}));

@@ -1,0 +1,1 @@
+import{s as t}from"./index-e909e65d.js";const u=()=>t({url:"/Tag/GetGouTag?parentid=0",method:"get"}),s=(e,r,o)=>t({url:`/Product/GetProductListPublic?shopid=${e}&order=${r}&tagid=${o}&mark=typeall&count=30&page=1`,method:"get"});export{u as G,s as a};
