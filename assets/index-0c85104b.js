@@ -1,0 +1,1 @@
+import{s as e}from"./index-c454af2f.js";const u=t=>e({url:"/Shop/GetShop?id="+t,method:"get"}),i=t=>e({url:"/Shop/GetShopBannerListPublic?shopid="+t,method:"get"}),c=(t,o,r)=>e({url:`/Product/GetProductListPublic?shopid=${t}&order=${o}&count=10&page=${r}`,method:"get"});export{u as G,i as a,c as b};

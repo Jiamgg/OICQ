@@ -1,0 +1,1 @@
+System.register(["./index-legacy-bcb51ee8.js"],(function(t,e){"use strict";var r;return{setters:[t=>{r=t.s}],execute:function(){t("G",(()=>r({url:"/Tag/GetGouTag?parentid=0",method:"get"}))),t("a",((t,e,u)=>r({url:`/Product/GetProductListPublic?shopid=${t}&order=${e}&tagid=${u}&mark=typeall&count=30&page=1`,method:"get"})))}}}));
