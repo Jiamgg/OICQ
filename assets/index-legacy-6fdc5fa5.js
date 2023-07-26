@@ -1,1 +1,0 @@
-System.register(["./index-legacy-bcb51ee8.js"],(function(e,t){"use strict";var o;return{setters:[e=>{o=e.s}],execute:function(){e("G",(e=>o({url:"/Shop/GetShop?id="+e,method:"get"}))),e("a",(e=>o({url:"/Shop/GetShopBannerListPublic?shopid="+e,method:"get"}))),e("b",((e,t,r)=>o({url:`/Product/GetProductListPublic?shopid=${e}&order=${t}&count=10&page=${r}`,method:"get"})))}}}));
